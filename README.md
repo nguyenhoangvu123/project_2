@@ -1,0 +1,2 @@
+- the screenshot in the screenshot folder
+- endpoint : http://project2-dev22.us-east-1.elasticbeanstalk.com/
